@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidocrappsampleActivity!</string>
+    <string name="app_name">Poster Scanner App</string>
+    <string name="app_name1">List of Saved Events</string>
+    <string name="LangDefault">language code</string>
+    <string name="keyDefault">api key</string>
+</resources>

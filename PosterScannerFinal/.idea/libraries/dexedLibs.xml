@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SampleActivity/bin/dexedLibs/android-support-v4-e26f1294be629c7cf3474ace27c6ee5f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SampleActivity/bin/dexedLibs/android-support-v4-483601f3ec3672cdfc1ba18d1349f4e5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SampleActivity/bin/dexedLibs/android-support-v4-4ec4dbfedcadbbcadf18dff6ba47032f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
