@@ -1,8 +1,6 @@
 // Homework Assignment Number 6 Final Project                                               //
 // Class: CS6301 User Interface Design                                        //
-// Group of 2 students                                                        //
-//----------------------------------------------------------------------------//
-// Name: ARJUN SHROFF MAHESH       Net ID: axs144930                         //
+
 //----------------------------------------------------------------------------//
 // Name: ARNAV SHARMA               Net ID: axs144130                         //
 //----------------------------------------------------------------------------//
