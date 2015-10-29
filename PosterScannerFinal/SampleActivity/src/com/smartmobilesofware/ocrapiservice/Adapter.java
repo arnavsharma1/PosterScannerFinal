@@ -11,9 +11,7 @@
 // This program displays the saved events in a list view on the view events screen. //
 
 package com.smartmobilesofware.ocrapiservice;
-/**
- * Created by Arjun on 4/19/2015.
- */
+
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
