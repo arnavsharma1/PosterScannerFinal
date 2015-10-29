@@ -12,9 +12,7 @@
 // Basic Data class to hold a events name and location.     	              //
 
 package com.smartmobilesofware.ocrapiservice;
-/**
- * Created by Arjun on 4/19/2015.
- */
+
 public class EventObj {
 
 	String name;
