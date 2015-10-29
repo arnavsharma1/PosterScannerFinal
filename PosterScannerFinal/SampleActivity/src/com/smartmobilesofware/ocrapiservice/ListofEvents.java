@@ -12,9 +12,7 @@
 // This part of code calls the Calendar API and reads events for a particular range of dates. 	              //
 
 package com.smartmobilesofware.ocrapiservice;
-/**
- * Created by Arjun on 4/19/2015.
- */
+
 import android.app.Activity;
 import android.database.Cursor;
 import android.os.Bundle;
